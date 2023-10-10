@@ -1,0 +1,3 @@
+# pytradeanalyzer
+
+Python library for backtesting. Library still under development...
