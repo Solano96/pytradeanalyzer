@@ -12,7 +12,7 @@ Examples of commision config:
     commission = {'percentage': 1}
 ```
 
-3. With different intervals
+2. With different intervals
 ```
     commission = [
         {'interval': (0, 1000), 'commission': {'amount': 5}},
@@ -21,7 +21,7 @@ Examples of commision config:
     ]
 ```
 
-5. Differentiating between buy and sell
+3. Differentiating between buy and sell
 ```
     commission = {
         'buy': {'amount': 2},
